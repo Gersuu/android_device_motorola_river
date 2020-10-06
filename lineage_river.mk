@@ -38,7 +38,7 @@ FLOKO_BUILD_TYPE=OFFICIAL
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
         PRODUCT_NAME=river \
-        PRIVATE_BUILD_DESC="river-user 9 PPOS29.114-134-4 fe214 release-keys"
+        PRIVATE_BUILD_DESC="river-user 10 QPU30.52-16-2 be43c release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := motorola/river/river:9/PPOS29.114-134-4/fe214:user/release-keys
+BUILD_FINGERPRINT := motorola/river/river:10/QPU30.52-16-2/be43c:user/release-keys
